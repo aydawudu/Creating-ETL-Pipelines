@@ -1,11 +1,11 @@
-#Creating-ETL-Pipelines
-#Outline
-##1.Extract data from different sources such as:
+# Creating-ETL-Pipelines
+# Outline
+## 1.Extract data from different sources such as:
 * csv files
 * json files
 * APIs
 
-##2.Transform data
+## 2.Transform data
 * combining data from different sources
 * data cleaning
 * data types
