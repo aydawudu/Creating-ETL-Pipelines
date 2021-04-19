@@ -2,7 +2,7 @@
 #Outline
 ##1.Extract data from different sources such as:\
 * csv files
-* json files\
+* json files
 * APIs
 
 ##2.Transform data\
