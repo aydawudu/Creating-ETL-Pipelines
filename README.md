@@ -16,12 +16,12 @@
  *dummy variables\
  *remove outliers\
  *scaling features\
- *engineering features\
+ *engineering features
  
  ## 3.Load
-*send the transformed data to a database\
+*send the transformed data to a database
 
 ## 4. ETL Pipeline
- * code an ETL pipeline\
+ * code an ETL pipeline
 
 Tool: Jupyter Notebook
