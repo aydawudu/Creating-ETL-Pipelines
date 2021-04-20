@@ -1,3 +1,6 @@
+
+This project seeks to establish a guideline for creating data pipelines. Research shows that scientist/analyst spend more than 80% cleaning and prepping data. I have found that having a framework can make the process a bit smoother. The outline below showcase some of the steps to use in cleaning and transforming data. 
+
 # Creating-ETL-Pipelines
 # Outline
 ## 1.Extract data from different sources such as:
@@ -25,3 +28,5 @@
 * code an ETL pipeline
 
 Tool: Jupyter Notebook
+
+Adapted from Udacity Data Engineering Nanodegree
